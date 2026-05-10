@@ -7,7 +7,7 @@ This dashboard is designed as an educational tool, allowing users to dynamically
 ## Features
 * **Dynamic Data Filtering:** Subset the dataset globally by spectral class and surface temperature (Kelvin).
 * **Interactive Visualizations:**
-  * **H-R Diagram (Scatter Plot):** Plots Temperature vs. Magnitude (with standard astronomical log scaling and reversed axes).
+  * **Hertzsprung-Russell (H-R) Diagram (Scatter Plot):** Plots Temperature vs. Magnitude (with standard astronomical log scaling and reversed axes).
   * **Distributions:** Histograms and Boxplots to analyze variable spread.
   * **Population Counts:** Bar charts displaying dataset composition.
 * **Statistical Testing:**
