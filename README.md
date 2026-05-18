@@ -3,6 +3,7 @@
 An interactive R Shiny application built to explore the physical relationship between a star's surface temperature, its absolute magnitude (brightness), and its spectral classification. 
 
 This dashboard is designed as an educational tool, allowing users to dynamically filter stellar populations, visualize distributions, and run fundamental statistical tests to analyze variances across different types of stars.
+![App Preview](https://github.com/user-attachments/assets/54a74ead-3bf9-4cec-afc1-ef2990b09a42)
 
 ## Features
 * **Dynamic Data Filtering:** Subset the dataset globally by spectral class and surface temperature (Kelvin).
